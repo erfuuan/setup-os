@@ -14,3 +14,7 @@ By using this checklist, I can quickly set up my working environment and ensure 
 - **Networking Tools**: `wireguard`  
 
 🚀 **Whenever a new system is installed, clone this repo and quickly set everything up!**
+
+
+vlc
+cmatrix
